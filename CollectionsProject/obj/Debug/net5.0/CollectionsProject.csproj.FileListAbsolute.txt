@@ -1,0 +1,16 @@
+E:\My Projects\DotNet\CollectionsProject\CollectionsProject\bin\Debug\net5.0\CollectionsProject.exe
+E:\My Projects\DotNet\CollectionsProject\CollectionsProject\bin\Debug\net5.0\CollectionsProject.deps.json
+E:\My Projects\DotNet\CollectionsProject\CollectionsProject\bin\Debug\net5.0\CollectionsProject.runtimeconfig.json
+E:\My Projects\DotNet\CollectionsProject\CollectionsProject\bin\Debug\net5.0\CollectionsProject.runtimeconfig.dev.json
+E:\My Projects\DotNet\CollectionsProject\CollectionsProject\bin\Debug\net5.0\CollectionsProject.dll
+E:\My Projects\DotNet\CollectionsProject\CollectionsProject\bin\Debug\net5.0\ref\CollectionsProject.dll
+E:\My Projects\DotNet\CollectionsProject\CollectionsProject\bin\Debug\net5.0\CollectionsProject.pdb
+E:\My Projects\DotNet\CollectionsProject\CollectionsProject\obj\Debug\net5.0\CollectionsProject.csproj.AssemblyReference.cache
+E:\My Projects\DotNet\CollectionsProject\CollectionsProject\obj\Debug\net5.0\CollectionsProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Projects\DotNet\CollectionsProject\CollectionsProject\obj\Debug\net5.0\CollectionsProject.AssemblyInfoInputs.cache
+E:\My Projects\DotNet\CollectionsProject\CollectionsProject\obj\Debug\net5.0\CollectionsProject.AssemblyInfo.cs
+E:\My Projects\DotNet\CollectionsProject\CollectionsProject\obj\Debug\net5.0\CollectionsProject.csproj.CoreCompileInputs.cache
+E:\My Projects\DotNet\CollectionsProject\CollectionsProject\obj\Debug\net5.0\CollectionsProject.dll
+E:\My Projects\DotNet\CollectionsProject\CollectionsProject\obj\Debug\net5.0\ref\CollectionsProject.dll
+E:\My Projects\DotNet\CollectionsProject\CollectionsProject\obj\Debug\net5.0\CollectionsProject.pdb
+E:\My Projects\DotNet\CollectionsProject\CollectionsProject\obj\Debug\net5.0\CollectionsProject.genruntimeconfig.cache
